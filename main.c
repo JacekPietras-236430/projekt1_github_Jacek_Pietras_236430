@@ -6,5 +6,6 @@ int main() {
     printf("zmiana 1\n");
     printf("zmiana 2\n");
     printf("zmiana 3\n");
+    printf("zmiana 4\n");
     return 0;
 }
